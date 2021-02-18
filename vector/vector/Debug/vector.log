@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\_____main\_____바로가기\___c++\프로젝트들\vector\vector\소스.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\_____main\_____바로가기\___c++\프로젝트들\vector\vector\소스.cpp(21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  vector.vcxproj -> C:\_____Main\_____바로가기\___C++\프로젝트들\vector\Debug\vector.exe

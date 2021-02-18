@@ -1,0 +1,33 @@
+﻿  소스.cpp
+c:\_____main\_____바로가기\___c++\프로젝트들\big_rsa\big_rsa\bigint.h(93): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\_____main\_____바로가기\___c++\프로젝트들\big_rsa\big_rsa\bigint.h(156): warning C4244: '=': 'uint64'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=uint32
+          ]
+c:\_____main\_____바로가기\___c++\프로젝트들\big_rsa\big_rsa\bigint.h(162): warning C4244: '=': 'uint64'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=uint32
+          ]
+c:\_____main\_____바로가기\___c++\프로젝트들\big_rsa\big_rsa\bigint.h(180): warning C4244: '=': 'uint64'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=uint32
+          ]
+c:\_____main\_____바로가기\___c++\프로젝트들\big_rsa\big_rsa\bigint.h(186): warning C4244: '=': 'uint64'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=uint32
+          ]
+c:\_____main\_____바로가기\___c++\프로젝트들\big_rsa\big_rsa\bigint.h(289): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\_____main\_____바로가기\___c++\프로젝트들\big_rsa\big_rsa\bigint.h(292): warning C4244: '인수': 'uint64'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=uint32
+          ]
+c:\_____main\_____바로가기\___c++\프로젝트들\big_rsa\big_rsa\bigint.h(312): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\_____main\_____바로가기\___c++\프로젝트들\big_rsa\big_rsa\bigint.h(379): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\_____main\_____바로가기\___c++\프로젝트들\big_rsa\big_rsa\소스.cpp(6): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\_____main\_____바로가기\___c++\프로젝트들\big_rsa\big_rsa\mytool.h(114): warning C4715: 'gen_prime': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  big_RSA.vcxproj -> C:\_____Main\_____바로가기\___C++\프로젝트들\big_RSA\Debug\big_RSA.exe

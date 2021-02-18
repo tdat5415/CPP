@@ -1,0 +1,3 @@
+﻿  소스.cpp
+c:\_____main\_____바로가기\___c++\프로젝트들\test\test\소스.cpp(12): warning C4307: '+': 정수 계열 상수 오버플로입니다.
+  test.vcxproj -> C:\_____Main\_____바로가기\___C++\프로젝트들\test\Debug\test.exe
